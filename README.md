@@ -12,7 +12,7 @@ Este repositório contém uma API simples escrita em Dart, que permite gerenciar
 ## Estrutura do Projeto
 
 - `contador.json`: Armazena informações sobre os usuários conectados.
-- `main.dart`: Contém a lógica do servidor, incluindo gerenciamento de requisições e persistência de dados.
+- `contador2.dart`: Contém a lógica do servidor, incluindo gerenciamento de requisições e persistência de dados.
 
 ## Pré-requisitos
 
